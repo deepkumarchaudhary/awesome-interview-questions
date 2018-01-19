@@ -88,12 +88,16 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [AngularJS Interview Questions which have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of AngularJS](http://www.tutorialspoint.com/angularjs/angularjs_interview_questions.htm)
 * [This article discusses the top 50 Most occurred AngularJS interview question with answers](http://www.codeproject.com/Articles/891718/AngularJS-Interview-Questions-and-Answers)
 * [Top 25 Angularjs Interview Questions and Quiz](http://career.guru99.com/top-25-angular-js-interview-questions/)
+* [Top 30 Angularjs Interview Questions ](https://www.onlineinterviewquestions.com/angular-js-interview-questions/)
+* [Top 20 Angular 2 Interview Questions](https://www.onlineinterviewquestions.com/angular2-interview-questions/)
+* [Top 20 Angular 4 Interview Questions ](https://www.onlineinterviewquestions.com/angularjs-interview-questions/)
 
 ### BackboneJS
 
 * [8 Essential Backbonejs Interview Questions from top 3% developers company](http://www.toptal.com/backbone-js/interview-questions)
 * [Backbonejs Interview Questions And Answers from web technology experts notes](http://www.web-technology-experts-notes.in/2015/01/backbone-js-interview-questions-and-answers.html)
 * [Top 25 Backbone.js interview questions](http://career.guru99.com/top-25-backbone-js-interview-questions/)
+[Top 10 Backbone.js interview questions](https://www.onlineinterviewquestions.com/backbone-js-interview-questions/)
 
 ### C++
 
