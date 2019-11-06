@@ -149,7 +149,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [CSS interview questions and answers for freshers and experienced candidates Also there you can find CSS online practice tests to fight written tests and certification exams on CSS](http://www.careerride.com/Interview-Questions-CSS.aspx)
 * [Development hiring managers and potential interviewees may find there sample CSS proficiency interview Q&As and code snippets useful](http://www.techrepublic.com/blog/software-engineer/css-interview-questions-and-answers/)
 * [Interview Questions and Exercises About CSS](https://css-tricks.com/interview-questions-css/)
-* [Top 50 CSS(Cascading Style Sheet) Interview Questions covering the most of tricky CSS moments](http://career.guru99.com/top-50-csscascading-style-sheet-interview-questions/)
+* [Best 100 CSS(Cascading Style Sheet) Interview Questions ](https://onlineinterviewquestions.com/css-interview-questions/)
 
 ### Django
 
@@ -182,7 +182,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [40 important HTML 5 Interview questions with answers](http://www.codeproject.com/Articles/702051/important-HTML-Interview-questions-with-answe)
 * [HTML interview questions and answers for freshers and experienced candidates Also find HTML online practice tests to fight written tests and certification exams on HTML](http://www.careerride.com/Interview-Questions-HTML.aspx)
 * [Top 50 HTML Interview Questions for both freshers and experienced developers](http://career.guru99.com/top-50-html-interview-questions/)
-* [Common HTML interview questions for freshers](http://www.javatpoint.com/html-interview-questions)
+* [Basic HTML interview questions for freshers](https://onlineinterviewquestions.com/html-interview-questions/)
 
 ### Ionic
 
